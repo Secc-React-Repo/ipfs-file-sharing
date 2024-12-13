@@ -22,9 +22,9 @@ First, clone the project to your local machine:
 bash
 Copy code
 git clone https://github.com/Secc-React-Repo/ipfs-file-sharing.git
+
 2. Set up the backend (Express server)
 Navigate to the backend folder:
-
 bash
 Copy code
 cd my-project/backend
