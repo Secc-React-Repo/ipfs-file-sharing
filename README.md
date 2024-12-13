@@ -2,6 +2,8 @@ IPFS File Sharing Project
 
 This project allows users to upload and retrieve files using an Express server for the backend and a React app for the frontend. The files are uploaded to the server and can be retrieved using the provided links.
 
+Clone/download all the files except "server.js" and place them in "src" directory of one project. Place "server.js" under "src" directory of another project as it is for backend operations. 
+
 Project Structure
 bash
 Copy code
@@ -68,5 +70,6 @@ Technologies Used
 Frontend: React
 Backend: Express.js, Multer (for file handling)
 File Storage: Local file system
-License
-This project is licensed under the MIT License.
+
+
+
